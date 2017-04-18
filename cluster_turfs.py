@@ -45,16 +45,13 @@ def readData(file_name):
     return df
 
 if __name__ == '__main__':
+    df_cluster = pd.read_csv('/home/usman/Downloads/Turf_Clusters/72GM/72GM_splits.csv')
 
-    df = readData('../southside_service_inventory.csv')
+    df_cluster['service-duration'] = df_cluster['service-duration'] * 24
+    df_cluster = df_cluster[df_cluster['service-duration'] < 10. / 60]
 
-    df_small_turfs_580D = df[(df['Service-Duration for 580D'] < 5/60) & (df['Service-Duration for 580D'] > 0)]
-    df_small_turfs_72GM = df[(df['Service-Duration for 72GM'] < 5/60) & (df['Service-Duration for 72GM'] > 0)]
+    time_matrix = np.array(pd.read_csv('small_turfs_time_matrix.csv'))
 
-    dist_matrix_580D = get_distance_matrix(df_small_turfs_580D)
+    df = get_kmedoids(df_cluster, time_matrix, 50)
 
-    dist_matrix_580D.to_csv("Dist_matrix_580D.csv", index=False)
-
-    #df_cluters = get_kmedoids(df_small_turfs_580D, dist_matrix_580D, 30)
-
-    #df_cluters.to_csv('Cluster_review.csv', index = False)
+    print(df)
