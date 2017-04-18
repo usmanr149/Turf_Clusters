@@ -46,6 +46,7 @@ def readData(file_name):
 
 if __name__ == '__main__':
     df_cluster = pd.read_csv('/home/usman/Downloads/Turf_Clusters/72GM/72GM_splits.csv')
+    df_cluster.to_csv('72GM_splits.csv', index=False)
 
     df_cluster['service-duration'] = df_cluster['service-duration'] * 24
     df_cluster = df_cluster[df_cluster['service-duration'] < 10. / 60]
