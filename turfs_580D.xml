@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns="http://www.w3schools.com"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com vrp_xml_schema.xsd">
+<service id="106.0_0_B1" type='delivery'>
+    <locationId>106.0_0_B1</locationId>
+    <coord x="-113.4813008" y="53.51372262"/>
+    <capacity-demand>1</capacity-demand>
+    <capacity-demand>0.00400462962962963</capacity-demand>
+    <timeWindows>
+        <timeWindow>
+        <start>0d 06:00:00</start>
+        <end>9d 14:45:00</end>
+        </timeWindow>
+    </timeWindows>
+</service>
+<service id="181.0_0_B1" type='delivery'>
+<locationId>181.0_0_B1</locationId>
+<coord x="-113.4252652" y="53.5572473"/>
+<capacity-demand>1</capacity-demand>
+<capacity-demand>0.02291666666666667</capacity-demand>
+<timeWindows>
+<timeWindow>
+<start>0d 06:00:00</start>
+<end>9d 14:45:00</end>
+</timeWindow>
+</timeWindows>
+</service>
+<service id="207.0_0_B1" type='delivery'>
+<locationId>207.0_0_B1</locationId>
+<coord x="-113.4648967" y="53.42498670000001"/>
+<capacity-demand>1</capacity-demand>
+<capacity-demand>0.006643518518518518</capacity-demand>
+<timeWindows>
+<timeWindow>
+<start>0d 06:00:00</start>
+<end>9d 14:45:00</end>
+</timeWindow>
+</timeWindows>
+</service>
+</services>

@@ -1,0 +1,6225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles xmlns="http://www.w3schools.com"             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"             xsi:schemaLocation="http://www.w3schools.com vrp_xml_schema.xsd">
+<vehicle>
+<id>MWD-5910-1_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>30.0</start>
+<end>38.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>54.0</start>
+<end>62.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>78.0</start>
+<end>86.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>102.0</start>
+<end>110.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>126.0</start>
+<end>134.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>150.0</start>
+<end>158.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_1_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>6.0</start>
+<end>14.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>198.0</start>
+<end>206.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>222.0</start>
+<end>230.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>246.0</start>
+<end>254.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>270.0</start>
+<end>278.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>294.0</start>
+<end>302.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>318.0</start>
+<end>326.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_2_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>174.0</start>
+<end>182.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-1_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-2_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-3_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_1</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>366.0</start>
+<end>374.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_2</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>390.0</start>
+<end>398.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_3</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>414.0</start>
+<end>422.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_4</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>438.0</start>
+<end>446.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_5</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>462.0</start>
+<end>470.75</end>
+</timeWindows>
+<skills>neighbourhood</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_6</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>486.0</start>
+<end>494.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+<vehicle>
+<id>MWD-5910-4_3_0</id>
+<typeId>solomonType</typeId>
+<startLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</startLocation>
+<endLocation>
+<id>Mill Woods Service Yard</id>
+<coord x="-113.4393666" y="53.45417787"/>
+</endLocation>
+<timeWindows>
+<start>342.0</start>
+<end>350.75</end>
+</timeWindows>
+<skills>roadway</skills>
+</vehicle>
+</vehicles>
