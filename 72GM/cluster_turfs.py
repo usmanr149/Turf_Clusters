@@ -1,23 +1,8 @@
-import googlemaps
-import dist_matrix as tmo
-
-from Bio import Cluster
 import numpy as np
-from numpy import array
 import pandas as pd
+from Bio import Cluster
 from k_medoids import *
 
-def get_distance_matrix(df):
-    inputs = [(df['lat'][i], df['long'][i]) for i in df.index]
-
-    google_key = "****"
-
-    maps = googlemaps.Client(key=google_key)
-
-    # inputs = inputs[:5]  # for testing
-    dist_matrix = tmo.get_dist_matrix(inputs, maps)
-
-    return pd.DataFrame(columns=df['PINSITE_ID'].unique(), data=dist_matrix)
 
 def get_kmedoids(df, dist_matrix, num_clusters):
 
