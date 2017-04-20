@@ -1,0 +1,44 @@
+depot_name,Team Lead,vehicle_id,vehicle_name,vehicle status,equipment_type(5910 or 72inch),Phone Number,Phone ID#,Phone BSA#,depot_latitude,depot_latitude,start_time,end_time,Days_of_Week
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-5910-1,X4247,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route X4247,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-5910-2,T4090,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route T4090,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-5910-3,R4008,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route R4008,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-5910-4,R4010,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route R4010,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-1,X4225,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4225,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-2,X4226,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4226,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-3,X4236,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4236,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-4,X4237,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4237,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Sunday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-5,X4238,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4238,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-6,Y4666,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4666,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-7,Y4676,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4676,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Mill Woods Service Yard,Chuck Jeannotte ,MWD-72-8,Y4677,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4677,53.45417787,-113.4393666,06:00:00,16:00:00,Monday - Friday
+Gold Bar Yard,Chuck Jeannotte ,GBY-5910-1,T4089,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route T4089,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Friday
+Gold Bar Yard,Chuck Jeannotte ,GBY-5910-2,V4431,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route V4431,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Friday
+Gold Bar Yard,Chuck Jeannotte ,GBY-72-1,W7459,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route W7459,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Thursday
+Gold Bar Yard,Chuck Jeannotte ,GBY-72-2,Y4666,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4666,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Thursday
+Gold Bar Yard,Chuck Jeannotte ,GBY-72-3,Y4667,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4667,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Thursday
+Gold Bar Yard,Chuck Jeannotte ,GBY-72-4,Y4668,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4668,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Thursday
+Gold Bar Yard,Chuck Jeannotte ,GBY-72-5,Y4671,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4671,53.55975148,-113.414852,06:00:00,16:00:00,Monday - Thursday
+Donnan Arena (seasonal yard),Chuck Jeannotte ,DON-72-1,W7456,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route W7456,53.515626,-113.4680529,06:00:00,16:00:00,Monday - Thursday
+Donnan Arena (seasonal yard),Chuck Jeannotte ,DON-72-2,Y4672,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4672,53.515626,-113.4680529,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-5910-1,X4248,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route X4248,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-5910-2,T4118,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route T4118,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-5910-3,R4013,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route R4013,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-5910-4,P4079,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route P4079,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-1,W7458,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route W7458,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-2,W7460,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route W7460,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-3,W7461,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route W7461,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-4,V4438,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route V4438,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-5,V4443,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route V4443,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-6,V4444,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route V4444,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-7,V4483,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route V4483,53.48534225,-113.5574225,06:00:00,16:00:00,Monday - Thursday
+Rainbow Valley Yard,Kelvin Meilicke,RBV-72-8,T4076,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route T4076,53.48534225,-113.5574225,06:00:00,16:00:00,Friday - Monday
+O'Keefe Yard,Kelvin Meilicke,OKY-5910-1,T4086,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route T4086,53.52408381,-113.5029577,06:00:00,16:00:00,Tuesday - Friday
+O'Keefe Yard,Kelvin Meilicke,OKY-72-1,X4221,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4221,53.52408381,-113.5029577,06:00:00,16:00:00,Tuesday - Friday
+O'Keefe Yard,Kelvin Meilicke,OKY-72-2,X4222,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4222,53.52408381,-113.5029577,06:00:00,16:00:00,Tuesday - Friday
+O'Keefe Yard,Kelvin Meilicke,OKY-72-3,X4223,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4223,53.52408381,-113.5029577,06:00:00,16:00:00,Tuesday - Friday
+O'Keefe Yard,Kelvin Meilicke,OKY-72-4,X4224,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route X4224,53.52408381,-113.5029577,06:00:00,16:00:00,Tuesday - Friday
+Ambleside Yard,Kelvin Meilicke,ASY-1590-1,V4432,ACTIVE,"Toro 5910 192""",,,CO PRS Turf Route V4432,53.42626956,-113.5713273,06:00:00,16:00:00,Monday - Thursday
+Ambleside Yard,Kelvin Meilicke,ASY-72-1,Y4664,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4664,53.42626956,-113.5713273,06:00:00,16:00:00,Monday - Thursday
+Ambleside Yard,Kelvin Meilicke,ASY-72-2,Y4665,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4665,53.42626956,-113.5713273,06:00:00,16:00:00,Monday - Thursday
+Ambleside Yard,Kelvin Meilicke,ASY-72-3,Y4669,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4669,53.42626956,-113.5713273,06:00:00,16:00:00,Monday - Thursday
+Ambleside Yard,Kelvin Meilicke,ASY-72-4,Y4670,ACTIVE,"JD 1545 72""",,,CO PRS Turf Route Y4670,53.42626956,-113.5713273,06:00:00,16:00:00,Monday - Thursday
